@@ -1,7 +1,7 @@
 # cats-app
 Created a dropdown menu using React, which allows you to choose your favourite cat image. 🐱
 
-#### How to run it
+### How to run it
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
